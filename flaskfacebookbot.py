@@ -5,9 +5,9 @@ from wit import Wit
 app = Flask(__name__)
 
 
-ACCESS_TOKEN = "EAACg9CP50TABAD6Sm8Jz4NVSQObLkGtXL4fPFSIQAxSDzgC5Or8tc2qb8os6pmAVFO7zdCnQZAZB8sLZAsznZCcJ1y9flk5j9rzlnpNtwdFExb3lcF74ghmcZA9sGUfwF8SPqsdZBUnbcYZCSVYlmY1CPUg2GZAlmJUlE5n67z8izwZDZD"
-VERIFY_TOKEN = "my_voice_is_my_password_verify_me"
-WITAI_TOKEN = "O5Q4OV75PDXMSL3FX3FEXRECEBB3SD36"
+ACCESS_TOKEN = ""
+VERIFY_TOKEN = ""
+WITAI_TOKEN = ""
 
 WitAi_returnMessage = ""
 
